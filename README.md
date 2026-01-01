@@ -68,3 +68,7 @@ Use the [included lab](./lab.md) for this week to apply the concepts you've lear
 - [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
 - [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
 - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
+
+### GitHub Copilot Function Description
+
+GitHub Copilot provides real-time code suggestions and auto-completion as you type, helping developers write code faster and with fewer errors. It uses AI to predict code snippets based on context, enabling quick insertion of functions, loops, and common patterns. This feature is especially useful in Rust, where syntax and safety rules require precise coding.
